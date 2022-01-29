@@ -16,7 +16,7 @@ The code creates a 3D scene with 500 000 water particles in it and simulates it 
 <br>
 
 <a name="Compilation"></a>
-## Compile the library
+## Compile the project
 
 
 This project is designed for Linux distros. In order to compile it, you need to install the development versions of glfw3 and openGL, and make.
@@ -35,7 +35,7 @@ You can then execute it :
 <br>
 
 <a name="Explain"></a>
-## Explanation
+## Explanations
 
 
 DSFPH comes from: https://animation.rwth-aachen.de/media/papers/2015-SCA-DFSPH.pdf
