@@ -1,0 +1,6 @@
+rendus
+*.o
+*.d
+pgm
+.vscode
+projet.zip
